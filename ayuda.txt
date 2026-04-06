@@ -1,0 +1,6 @@
+Cómo ejecutar
+Instalar dependencias:
+pip install -r requirements.txt
+Ejecutar backend:
+python app.py
+Abrir index.html en el navegador
